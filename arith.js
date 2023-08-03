@@ -10,3 +10,4 @@ let res3=x/y;
 console.log(res3);
 let res4=x%y;
 console.log(res4);
+let z=50;
